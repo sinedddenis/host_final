@@ -1,0 +1,57 @@
+body{background-image: url("https://i.pinimg.com/236x/88/36/31/883631610609a9b52ababbb9d7bbc262.jpg");background-position: center;background-repeat: no-repeat;background-size: cover; }
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Comic Sans MS',serif;
+    background: -webkit-linear-gradient(rgb(0, 0, 0), rgb(247, 65, 222));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ 
+}
+#stock{
+    font-size: 40px;
+    margin-left: 15px;
+    font-family: 'Calibri';
+    color: indigo;
+    background: -webkit-linear-gradient(rgb(172, 91, 154), rgb(97, 28, 207));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 20px;
+}
+.img{
+    width: 100%;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    min-height: 175px;
+}
+.text_title{
+    font-size: 30px;
+    color: rgb(67, 9, 90);
+    font-weight: 600;
+    vertical-align: initial;
+    padding-top: 15px;
+}
+.text_price{
+    font-size: 20px;
+}
+.text_descriprion{
+    font-size: 20px;
+    height: 117px;
+    vertical-align: initial;
+}
+.product_border{
+    border-bottom: rgb(168, 89, 214) solid 1px;
+
+}
+.toptext{
+    padding-top: 20px;
+}
+.img_refclect{
+    width: 100%;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+.title_row{
+    border-bottom: rgb(168, 89, 214) solid 1px;
+
+}
